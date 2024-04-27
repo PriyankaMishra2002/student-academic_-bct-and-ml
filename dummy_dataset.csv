@@ -1,0 +1,158 @@
+student_id,name,course,grade,age,gender
+4599,Matthew Price,Mathematics,D,21,Female
+5807,Joseph Thomas,Computer Science,D,19,Female
+2116,Glenda Hernandez,Computer Science,A,19,Male
+7070,Brenda Callahan,Physics,A,20,Female
+3626,Yvonne Taylor,Physics,A,20,Female
+8374,Lynn Deleon,Physics,A,20,Female
+6357,Amy Morrison,Biology,B,20,Male
+7371,Charles Sanchez,Mathematics,C,22,Male
+5093,Jason Delgado,Mathematics,C,19,Male
+9837,Hailey Buckley,Computer Science,B,25,Female
+3817,Phillip Johnson,Mathematics,C,25,Male
+5530,Robin Patel,Physics,A,24,Female
+8017,Ricardo Fernandez,Mathematics,A,25,Female
+3881,Amy Henry,Physics,A,22,Male
+5445,Daniel Neal,Computer Science,D,20,Male
+1091,Mark Johnson,Computer Science,F,24,Female
+1738,Mark Crawford,Physics,A,22,Male
+3737,Jennifer Robinson,Physics,D,24,Female
+2724,Amy Davis,Computer Science,C,20,Female
+8816,Elizabeth Medina,Biology,C,18,Female
+7638,Richard Williams,Biology,D,25,Female
+6953,Daniel Ali,Biology,F,25,Female
+1000,Michelle Anderson,Biology,C,22,Male
+1141,Randy Jones,Biology,A,18,Male
+2967,Amy Medina,Biology,A,19,Female
+8892,Cynthia Rodriguez,Biology,A,25,Female
+8423,Jo Carr,Physics,B,23,Male
+9820,Amber Livingston,Biology,D,25,Female
+6488,Christine Riley,Mathematics,A,21,Female
+3472,Douglas Carter,Biology,F,21,Female
+7703,John Fisher,Biology,F,18,Female
+4314,Janet Brooks,Biology,F,25,Female
+1572,Kevin Haley,Physics,B,21,Male
+5544,Debbie Williamson,Computer Science,C,20,Female
+4467,Mark Smith,Mathematics,F,21,Female
+5111,Pamela Vasquez,Computer Science,F,20,Female
+1419,Bryan Wong,Mathematics,B,20,Female
+3877,Amy Mack,Computer Science,C,18,Male
+7940,Erin Salinas,Mathematics,B,23,Male
+6921,Jason Clarke,Computer Science,A,21,Male
+7290,Richard Ayala,Mathematics,C,19,Female
+6532,Donald Bass,Biology,D,18,Male
+1112,Roger Little,Physics,B,24,Male
+6436,Danielle Rodriguez,Physics,F,19,Male
+6190,Robert Valencia,Computer Science,D,25,Female
+9369,Thomas Powell,Mathematics,A,21,Male
+2704,Alicia Wilkinson,Physics,B,18,Female
+9314,Stacy Blanchard,Physics,C,20,Male
+8708,Thomas Vasquez,Computer Science,D,19,Female
+8855,Heather Rose,Physics,A,22,Male
+3731,Megan Smith,Computer Science,C,24,Male
+5919,Raymond Mueller,Biology,B,22,Male
+1084,Craig Grant,Computer Science,C,21,Male
+4135,Andrew Lopez,Mathematics,D,19,Female
+1581,Daniel Hernandez Jr.,Physics,D,19,Male
+9936,Deborah Gilmore,Biology,A,24,Male
+6767,Melissa Johnson,Physics,D,21,Male
+8788,James Hughes,Physics,A,19,Male
+1136,Isabel Lane,Physics,B,21,Male
+5473,Stephanie Ponce,Mathematics,C,24,Male
+7029,Matthew Cross,Physics,B,20,Male
+3520,Sherry Allison,Biology,B,18,Male
+7990,Patricia Guzman DDS,Physics,B,19,Female
+7408,Jill Ross,Biology,F,20,Male
+6068,Anna Fletcher,Mathematics,A,18,Female
+9911,Frank Reyes,Biology,B,23,Male
+9769,Jonathan Ortiz,Physics,B,24,Male
+6786,Diane Johnson,Computer Science,C,21,Female
+8068,Jeffery Merritt,Biology,F,18,Male
+8491,Mary Holland,Mathematics,A,22,Female
+2607,Adam Evans,Mathematics,F,18,Male
+9287,Anne Hernandez,Biology,C,21,Female
+4782,Calvin Swanson,Computer Science,B,21,Male
+2026,Ashley Hart,Biology,B,20,Male
+2515,Joe Morgan,Mathematics,A,20,Female
+3722,Deanna Odom,Biology,A,23,Female
+5895,Brian Wilson,Computer Science,C,25,Female
+4208,Michael Williams,Mathematics,C,20,Male
+8820,Michelle Price,Physics,D,22,Female
+9171,Ian Gibson,Mathematics,F,24,Male
+4418,Melissa Sims,Mathematics,D,21,Male
+7565,Sarah Landry,Physics,D,20,Male
+8565,Gary Bautista,Physics,D,21,Male
+4914,Crystal Brown,Biology,A,24,Female
+6322,Shannon Gutierrez,Mathematics,F,19,Male
+9373,Colleen Sanchez,Mathematics,B,21,Female
+2514,Dylan Archer,Physics,A,24,Male
+4953,Ryan Murray,Physics,F,21,Male
+9810,Andrew Turner,Mathematics,A,18,Female
+3375,Omar Archer,Computer Science,D,25,Male
+9334,Calvin Harrison,Mathematics,A,23,Male
+2306,Michael Lee,Biology,B,20,Female
+9054,Dr. Michael Lara,Physics,B,21,Female
+1652,Eric Lee,Physics,C,19,Male
+1321,Anne Hernandez,Biology,D,19,Male
+8833,Kathryn Washington,Mathematics,D,18,Female
+5535,Amber Wood,Mathematics,D,18,Male
+9304,Maurice Pitts,Physics,C,24,Female
+2388,Megan Higgins,Biology,F,25,Male
+7663,Luis Jensen,Physics,A,24,Female
+2171,Robert Andrews,Computer Science,B,24,Female
+3960,Nicole Hart,Mathematics,D,18,Female
+6831,Alyssa Hunter,Biology,B,20,Female
+4128,Carolyn Wagner,Biology,C,24,Male
+3316,Jeffrey Calderon,Physics,A,20,Male
+9166,Casey Johnson,Mathematics,A,24,Male
+6821,Virginia Reese,Mathematics,F,23,Male
+9550,Mark Brown,Physics,F,25,Female
+7827,Jessica Williams,Mathematics,A,20,Male
+7478,Brad Stanton,Computer Science,F,25,Female
+3736,Mrs. Mary Hudson,Biology,C,19,Male
+4729,Donald Wright,Physics,D,22,Female
+7282,Anita Johnson,Mathematics,A,23,Male
+9732,William Fields,Mathematics,C,21,Female
+6426,Christian Brown,Physics,C,23,Female
+4679,John Hodges,Physics,B,20,Male
+7730,Christopher Mann,Physics,A,23,Male
+1058,Joanna Smith,Physics,B,18,Female
+5798,Andrea Garcia,Biology,C,23,Female
+5177,Jennifer Davis,Mathematics,C,22,Female
+8551,Julie Hall,Mathematics,C,24,Female
+2340,Adrian Murphy,Physics,D,23,Female
+5896,Jennifer Roberson,Computer Science,A,24,Female
+4622,Kimberly Ramsey,Mathematics,F,22,Male
+6905,Heather Burke,Biology,C,22,Male
+1815,Tiffany Moore,Biology,B,24,Male
+6255,Katherine Johnson,Mathematics,B,20,Male
+4860,Anna Thomas,Computer Science,C,20,Male
+7680,Kristen Thompson,Mathematics,F,25,Male
+8395,Tyler Perez,Physics,B,21,Male
+3758,Miranda Hernandez,Biology,B,23,Female
+3330,Veronica Greer,Biology,D,22,Male
+5366,George Gibson,Physics,B,20,Male
+6867,Curtis Wright,Physics,C,25,Female
+6907,Keith Mcclain,Mathematics,D,24,Female
+1330,Cassandra Tucker,Mathematics,C,22,Male
+2944,Douglas Tyler,Biology,A,22,Male
+2816,Rose Stokes,Mathematics,B,25,Female
+7641,Jeanette Lucas,Mathematics,F,23,Female
+4186,Joel Mccoy,Biology,F,19,Male
+3621,Jennifer Shepherd,Biology,D,20,Female
+6595,James Moore,Computer Science,C,18,Male
+1808,Catherine Rodriguez,Physics,F,20,Female
+5878,Mary Lee,Biology,D,20,Female
+5218,Shane Ellis,Physics,A,18,Male
+7189,Austin James,Computer Science,F,19,Female
+8900,Crystal Jones,Computer Science,B,22,Female
+2463,Stacy Campbell,Biology,C,21,Female
+9386,Timothy Davis,Biology,A,21,Male
+6002,Brett Miller,Computer Science,B,24,Male
+7707,Jimmy Perez,Computer Science,F,21,Male
+6163,Christina Thompson,Biology,B,25,Male
+7795,Mrs. Dawn Jones,Physics,B,20,Male
+8435,Larry Walker,Physics,D,22,Male
+9416,Eric Clark,Physics,A,19,Male
+7326,Taylor Garrett,Mathematics,B,25,Male
+9351,Scott Wallace,Biology,B,18,Male
